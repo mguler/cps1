@@ -1,0 +1,1403 @@
+<?xml version="1.0"?>
+<mame version="1">
+  <game name="forgottn" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Forgotten Worlds (World, newer)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="forgottna" board="CPS-1">
+    <parent>forgottn</parent>
+    <direction></direction>
+    <description>Forgotten Worlds (World)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="forgottnu" board="CPS-1">
+    <parent>forgottn</parent>
+    <direction></direction>
+    <description>Forgotten Worlds (USA, B-Board 88621B-2, Rev. C)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="forgottnue" board="CPS-1">
+    <parent>forgottn</parent>
+    <direction></direction>
+    <description>Forgotten Worlds (USA, B-Board 88618B-2, Rev. E)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="forgottnuc" board="CPS-1">
+    <parent>forgottn</parent>
+    <direction></direction>
+    <description>Forgotten Worlds (USA, B-Board 88618B-2, Rev. C)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="forgottnua" board="CPS-1">
+    <parent>forgottn</parent>
+    <direction></direction>
+    <description>Forgotten Worlds (USA, B-Board 88618B-2, Rev. A)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="forgottnuaa" board="CPS-1">
+    <parent>forgottn</parent>
+    <direction></direction>
+    <description>Forgotten Worlds (USA, B-Board 88618B-2, Rev. AA)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="lostwrld" board="CPS-1">
+    <parent>forgottn</parent>
+    <direction></direction>
+    <description>Lost Worlds (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="lostwrldo" board="CPS-1">
+    <parent>forgottn</parent>
+    <direction></direction>
+    <description>Lost Worlds (Japan Old Ver.)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ghouls" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Ghouls'n Ghosts (World)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ghoulsu" board="CPS-1">
+    <parent>ghouls</parent>
+    <direction></direction>
+    <description>Ghouls'n Ghosts (USA)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="daimakai" board="CPS-1">
+    <parent>ghouls</parent>
+    <direction></direction>
+    <description>Daimakaimura (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="daimakair" board="CPS-1">
+    <parent>ghouls</parent>
+    <direction></direction>
+    <description>Daimakaimura (Japan Resale Ver.)</description>
+    <year>1988</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="strider" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Strider (USA, B-Board 89624B-2)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="striderua" board="CPS-1">
+    <parent>strider</parent>
+    <direction></direction>
+    <description>Strider (USA, B-Board 89624B-3)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="strideruc" board="CPS-1">
+    <parent>strider</parent>
+    <direction></direction>
+    <description>Strider (USA, B-Board 90629B-3, buggy Street Fighter II conversion)</description>
+    <year>1989</year>
+    <manufacturer>bootleg (Capcom)</manufacturer>
+  </game>
+  <game name="striderj" board="CPS-1">
+    <parent>strider</parent>
+    <direction></direction>
+    <description>Strider Hiryu (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="striderjr" board="CPS-1">
+    <parent>strider</parent>
+    <direction></direction>
+    <description>Strider Hiryu (Japan Resale Ver.)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="dynwar" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Dynasty Wars (USA, B-Board 89624B-?)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="dynwara" board="CPS-1">
+    <parent>dynwar</parent>
+    <direction></direction>
+    <description>Dynasty Wars (USA, B-Board 88622B-3)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="dynwarj" board="CPS-1">
+    <parent>dynwar</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="dynwarjr" board="CPS-1">
+    <parent>dynwar</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau (Japan Resale Ver.)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="willow" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Willow (World)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="willowu" board="CPS-1">
+    <parent>willow</parent>
+    <direction></direction>
+    <description>Willow (USA)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="willowuo" board="CPS-1">
+    <parent>willow</parent>
+    <direction></direction>
+    <description>Willow (USA Old Ver.)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="willowj" board="CPS-1">
+    <parent>willow</parent>
+    <direction></direction>
+    <description>Willow (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="unsquad" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>U.N. Squadron (US)</description>
+    <year>1989</year>
+    <manufacturer>Capcom / Daipro</manufacturer>
+  </game>
+  <game name="area88" board="CPS-1">
+    <parent>unsquad</parent>
+    <direction></direction>
+    <description>Area 88 (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Capcom / Daipro</manufacturer>
+  </game>
+  <game name="area88r" board="CPS-1">
+    <parent>unsquad</parent>
+    <direction></direction>
+    <description>Area 88 (Japan Resale Ver.)</description>
+    <year>1989</year>
+    <manufacturer>Capcom / Daipro</manufacturer>
+  </game>
+  <game name="ffight" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Final Fight (World, set 1)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffighta" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (World, set 2)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightu" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (USA, set 1)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightu1" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (USA, set 2)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightua" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (USA 900112)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightub" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (USA 900424)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightuc" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (USA 900613)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightj" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightj1" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (Japan 900112)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightj2" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (Japan 900305)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightj3" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Final Fight (Japan 900613)</description>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="ffightjh" board="CPS-1">
+    <parent>ffight</parent>
+    <direction></direction>
+    <description>Street Smart / Final Fight (Japan, hack)</description>
+    <year>1989</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="1941" board="CPS-1">
+    <parent></parent>
+    <direction>270</direction>
+    <description>1941: Counter Attack (World 900227)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="1941r1" board="CPS-1">
+    <parent>1941</parent>
+    <direction>270</direction>
+    <description>1941: Counter Attack (World)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="1941u" board="CPS-1">
+    <parent>1941</parent>
+    <direction>270</direction>
+    <description>1941: Counter Attack (USA 900227)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="1941j" board="CPS-1">
+    <parent>1941</parent>
+    <direction>270</direction>
+    <description>1941: Counter Attack (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mercs" board="CPS-1">
+    <parent></parent>
+    <direction>270</direction>
+    <description>Mercs (World 900302)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mercsu" board="CPS-1">
+    <parent>mercs</parent>
+    <direction>270</direction>
+    <description>Mercs (USA 900608)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mercsur1" board="CPS-1">
+    <parent>mercs</parent>
+    <direction>270</direction>
+    <description>Mercs (USA 900302)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mercsj" board="CPS-1">
+    <parent>mercs</parent>
+    <direction>270</direction>
+    <description>Senjou no Ookami II (Japan 900302)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mtwins" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Mega Twins (World 900619)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="chikij" board="CPS-1">
+    <parent>mtwins</parent>
+    <direction></direction>
+    <description>Chiki Chiki Boys (Japan 900619)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="msword" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Magic Sword: Heroic Fantasy (World 900725)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mswordr1" board="CPS-1">
+    <parent>msword</parent>
+    <direction></direction>
+    <description>Magic Sword: Heroic Fantasy (World 900623)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mswordu" board="CPS-1">
+    <parent>msword</parent>
+    <direction></direction>
+    <description>Magic Sword: Heroic Fantasy (USA 900725)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mswordj" board="CPS-1">
+    <parent>msword</parent>
+    <direction></direction>
+    <description>Magic Sword: Heroic Fantasy (Japan 900623)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="cawing" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Carrier Air Wing (World 901012)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="cawingr1" board="CPS-1">
+    <parent>cawing</parent>
+    <direction></direction>
+    <description>Carrier Air Wing (World 901009)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="cawingu" board="CPS-1">
+    <parent>cawing</parent>
+    <direction></direction>
+    <description>Carrier Air Wing (USA 901012)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="cawingj" board="CPS-1">
+    <parent>cawing</parent>
+    <direction></direction>
+    <description>U.S. Navy (Japan 901012)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="nemo" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Nemo (World 901130)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="nemor1" board="CPS-1">
+    <parent>nemo</parent>
+    <direction></direction>
+    <description>Nemo (World 901109)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="nemoj" board="CPS-1">
+    <parent>nemo</parent>
+    <direction></direction>
+    <description>Nemo (Japan 901120)</description>
+    <year>1990</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (World 910522)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2eb" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (World 910214)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ed" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (World 910318)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ee" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (World 910228)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ua" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (USA 910206)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ub" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (USA 910214)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2uc" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (USA 910306)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ud" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (USA 910318)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ue" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (USA 910228)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2uf" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (USA 910411)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ug" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (USA 910522, Rev. G)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ui" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (USA 910522, Rev. I)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2uk" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (USA 911101)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2j" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (Japan 911210)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ja" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (Japan 910214)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2jc" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (Japan 910306)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2jf" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (Japan 910411)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2jh" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (Japan 910522)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2jl" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (Japan 920312)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ebbl" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (TAB Austria, bootleg, set 1)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2ebbl2" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (TAB Austria, bootleg, set 3)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2ebbl3" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (TAB Austria, bootleg, set 4)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2qp1" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (Quicken Pt-I, bootleg)</description>
+    <year>1991</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2thndr" board="CPS-1">
+    <parent>sf2</parent>
+    <direction></direction>
+    <description>Street Fighter II: The World Warrior (Thunder Edition, bootleg)</description>
+    <year>1991</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="3wonders" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Three Wonders (World 910520)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="3wondersr1" board="CPS-1">
+    <parent>3wonders</parent>
+    <direction></direction>
+    <description>Three Wonders (World 910513)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="3wondersu" board="CPS-1">
+    <parent>3wonders</parent>
+    <direction></direction>
+    <description>Three Wonders (USA 910520)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="wonder3" board="CPS-1">
+    <parent>3wonders</parent>
+    <direction></direction>
+    <description>Wonder 3 (Japan 910520)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="3wondersb" board="CPS-1">
+    <parent>3wonders</parent>
+    <direction></direction>
+    <description>Three Wonders (bootleg)</description>
+    <year>1991</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="3wondersh" board="CPS-1">
+    <parent>3wonders</parent>
+    <direction></direction>
+    <description>Three Wonders (hack)</description>
+    <year>1991</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="kod" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>The King of Dragons (World 910805)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="kodr1" board="CPS-1">
+    <parent>kod</parent>
+    <direction></direction>
+    <description>The King of Dragons (World 910711)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="kodu" board="CPS-1">
+    <parent>kod</parent>
+    <direction></direction>
+    <description>The King of Dragons (USA 910910)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="kodj" board="CPS-1">
+    <parent>kod</parent>
+    <direction></direction>
+    <description>The King of Dragons (Japan 910805, B-Board 90629B-3)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="kodja" board="CPS-1">
+    <parent>kod</parent>
+    <direction></direction>
+    <description>The King of Dragons (Japan 910805, B-Board 89625B-1)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="captcomm" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Captain Commando (World 911202)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="captcommr1" board="CPS-1">
+    <parent>captcomm</parent>
+    <direction></direction>
+    <description>Captain Commando (World 911014)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="captcommu" board="CPS-1">
+    <parent>captcomm</parent>
+    <direction></direction>
+    <description>Captain Commando (USA 910928)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="captcommj" board="CPS-1">
+    <parent>captcomm</parent>
+    <direction></direction>
+    <description>Captain Commando (Japan 911202)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="captcommjr1" board="CPS-1">
+    <parent>captcomm</parent>
+    <direction></direction>
+    <description>Captain Commando (Japan 910928)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="captcommb" board="CPS-1">
+    <parent>captcomm</parent>
+    <direction></direction>
+    <description>Captain Commando (bootleg)</description>
+    <year>1991</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="knights" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Knights of the Round (World 911127)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="knightsu" board="CPS-1">
+    <parent>knights</parent>
+    <direction></direction>
+    <description>Knights of the Round (USA 911127)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="knightsj" board="CPS-1">
+    <parent>knights</parent>
+    <direction></direction>
+    <description>Knights of the Round (Japan 911127, B-Board 91634B-2)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="knightsja" board="CPS-1">
+    <parent>knights</parent>
+    <direction></direction>
+    <description>Knights of the Round (Japan 911127, B-Board 89625B-1)</description>
+    <year>1991</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ce" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (World 920513)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ceea" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (World 920313)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ceua" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (USA 920313)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ceub" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (USA 920513)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ceuc" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (USA 920803)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2ceja" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Japan 920322)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2cejb" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Japan 920513)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2cejc" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Japan 920803)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2bhh" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Hung Hsi, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2rb" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Rainbow, bootleg, set 1)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2rb2" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Rainbow, bootleg, set 2)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2rb3" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Rainbow, bootleg, set 3)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2red" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Red Wave, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2v004" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (V004, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2acc" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Accelerator!, bootleg, set 1)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2acca" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Accelerator!, bootleg, set 2)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2accp2" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Accelerator Pt.II, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2amf2" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (L735 Test Rom, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2dkot2" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Double K.O. Turbo II, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2ceblp" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (protected bootleg on non-dash board)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2cebltw" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition ('Taiwan' bootleg with PAL)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2m2" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (M2, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2m3" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (M3, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2m4" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (M4, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2m5" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (M5, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2m6" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (M6, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2m7" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (M7, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2m8" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (M8, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2m10" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (M10, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2yyc" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (YYC, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2koryu" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Xiang Long, Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2dongb" board="CPS-1">
+    <parent>sf2ce</parent>
+    <direction></direction>
+    <description>Street Fighter II': Champion Edition (Dongfang Bubai protection, bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="cworld2j" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Adventure Quiz Capcom World 2 (Japan 920611)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="cworld2ja" board="CPS-1">
+    <parent>cworld2j</parent>
+    <direction></direction>
+    <description>Adventure Quiz Capcom World 2 (Japan 920611, B-Board 90629B-3, no battery)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="cworld2jb" board="CPS-1">
+    <parent>cworld2j</parent>
+    <direction></direction>
+    <description>Adventure Quiz Capcom World 2 (Japan 920611, B-Board 91634B-2)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="varth" board="CPS-1">
+    <parent></parent>
+    <direction>270</direction>
+    <description>Varth: Operation Thunderstorm (World 920714)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="varthr1" board="CPS-1">
+    <parent>varth</parent>
+    <direction>270</direction>
+    <description>Varth: Operation Thunderstorm (World 920612)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="varthu" board="CPS-1">
+    <parent>varth</parent>
+    <direction>270</direction>
+    <description>Varth: Operation Thunderstorm (USA 920612)</description>
+    <year>1992</year>
+    <manufacturer>Capcom (Romstar license)</manufacturer>
+  </game>
+  <game name="varthj" board="CPS-1">
+    <parent>varth</parent>
+    <direction>270</direction>
+    <description>Varth: Operation Thunderstorm (Japan 920714)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="varthjr" board="CPS-1">
+    <parent>varth</parent>
+    <direction>270</direction>
+    <description>Varth: Operation Thunderstorm (Japan Resale Ver. 920714)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="qad" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Quiz &amp; Dragons: Capcom Quiz Game (USA 920701)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="qadjr" board="CPS-1">
+    <parent>qad</parent>
+    <direction></direction>
+    <description>Quiz &amp; Dragons: Capcom Quiz Game (Japan Resale Ver. 940921)</description>
+    <year>1994</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="wof" board="CPS-1(QSound)">
+    <parent></parent>
+    <direction></direction>
+    <description>Warriors of Fate (World 921031)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="wofr1" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Warriors of Fate (World 921002)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="wofu" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Warriors of Fate (USA 921031)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="wofa" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Sangokushi II (Asia 921005)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="wofj" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II: Sekiheki no Tatakai (Japan 921031)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="wofhfh" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Huo Feng Huang (Chinese bootleg of Sangokushi II)</description>
+    <year>1999</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="sf2hf" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Street Fighter II': Hyper Fighting (World 921209)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2hfu" board="CPS-1">
+    <parent>sf2hf</parent>
+    <direction></direction>
+    <description>Street Fighter II': Hyper Fighting (USA 921209)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sf2hfj" board="CPS-1">
+    <parent>sf2hf</parent>
+    <direction></direction>
+    <description>Street Fighter II' Turbo: Hyper Fighting (Japan 921209)</description>
+    <year>1992</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="dino" board="CPS-1(QSound)">
+    <parent></parent>
+    <direction></direction>
+    <description>Cadillacs and Dinosaurs (World 930201)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="dinou" board="CPS-1(QSound)">
+    <parent>dino</parent>
+    <direction></direction>
+    <description>Cadillacs and Dinosaurs (USA 930201)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="dinoj" board="CPS-1(QSound)">
+    <parent>dino</parent>
+    <direction></direction>
+    <description>Cadillacs: Kyouryuu Shin Seiki (Japan 930201)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="dinohunt" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Dinosaur Hunter (Chinese bootleg of Cadillacs and Dinosaurs)</description>
+    <year>1993</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="punisher" board="CPS-1(QSound)">
+    <parent></parent>
+    <direction></direction>
+    <description>The Punisher (World 930422)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="punisheru" board="CPS-1(QSound)">
+    <parent>punisher</parent>
+    <direction></direction>
+    <description>The Punisher (USA 930422)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="punisherh" board="CPS-1(QSound)">
+    <parent>punisher</parent>
+    <direction></direction>
+    <description>The Punisher (Hispanic 930422)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="punisherj" board="CPS-1(QSound)">
+    <parent>punisher</parent>
+    <direction></direction>
+    <description>The Punisher (Japan 930422)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="punisherbz" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Biaofeng Zhanjing (Chinese bootleg of The Punisher)</description>
+    <year>1993</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="slammast" board="CPS-1(QSound)">
+    <parent></parent>
+    <direction></direction>
+    <description>Saturday Night Slam Masters (World 930713)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="slammastu" board="CPS-1(QSound)">
+    <parent>slammast</parent>
+    <direction></direction>
+    <description>Saturday Night Slam Masters (USA 930713)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mbomberj" board="CPS-1(QSound)">
+    <parent>slammast</parent>
+    <direction></direction>
+    <description>Muscle Bomber: The Body Explosion (Japan 930713)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mbombrd" board="CPS-1(QSound)">
+    <parent></parent>
+    <direction></direction>
+    <description>Muscle Bomber Duo: Ultimate Team Battle (World 931206)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="mbombrdj" board="CPS-1(QSound)">
+    <parent>mbombrd</parent>
+    <direction></direction>
+    <description>Muscle Bomber Duo: Heat Up Warriors (Japan 931206)</description>
+    <year>1993</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="pnickj" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Pnickies (Japan 940608)</description>
+    <year>1994</year>
+    <manufacturer>Compile (Capcom license)</manufacturer>
+  </game>
+  <game name="qtono2j" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Quiz Tonosama no Yabou 2: Zenkoku-ban (Japan 950123)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="megaman" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Mega Man: The Power Battle (CPS1, USA 951006)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="megamana" board="CPS-1">
+    <parent>megaman</parent>
+    <direction></direction>
+    <description>Mega Man: The Power Battle (CPS1, Asia 951006)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="rockmanj" board="CPS-1">
+    <parent>megaman</parent>
+    <direction></direction>
+    <description>Rockman: The Power Battle (CPS1, Japan 950922)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="pokonyan" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Pokonyan! Balloon (Japan 940322)</description>
+    <year>1994</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="pang3" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Pang! 3 (Euro 950601)</description>
+    <year>1995</year>
+    <manufacturer>Mitchell</manufacturer>
+  </game>
+  <game name="pang3r1" board="CPS-1">
+    <parent>pang3</parent>
+    <direction></direction>
+    <description>Pang! 3 (Euro 950511)</description>
+    <year>1995</year>
+    <manufacturer>Mitchell</manufacturer>
+  </game>
+  <game name="pang3j" board="CPS-1">
+    <parent>pang3</parent>
+    <direction></direction>
+    <description>Pang! 3: Kaitou Tachi no Karei na Gogo (Japan 950511)</description>
+    <year>1995</year>
+    <manufacturer>Mitchell</manufacturer>
+  </game>
+  <game name="pang3b" board="CPS-1">
+    <parent>pang3</parent>
+    <direction></direction>
+    <description>Pang! 3 (bootleg)</description>
+    <year>1995</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofch" board="CPS-1(QSound)">
+    <parent></parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II: Sekiheki no Tatakai (CPS Changer, Japan 921031)</description>
+    <year>1994</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sfzch" board="CPS-1">
+    <parent></parent>
+    <direction></direction>
+    <description>Street Fighter Zero (CPS Changer, Japan 951020)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sfach" board="CPS-1">
+    <parent>sfzch</parent>
+    <direction></direction>
+    <description>Street Fighter Alpha: Warriors' Dreams (CPS Changer, Publicity USA 950727)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="sfzbch" board="CPS-1">
+    <parent>sfzch</parent>
+    <direction></direction>
+    <description>Street Fighter Zero (CPS Changer, Brazil 950727)</description>
+    <year>1995</year>
+    <manufacturer>Capcom</manufacturer>
+  </game>
+  <game name="wof1v3" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Warriors of Fate: 1v3 (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wof3js" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Sangokushi II: San Jian Sheng (Chinese bootleg set 1, 921005 Asia)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofcn" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II - Sekiheki no Tatakai (Japan 921031) (Chinese translation)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofdr" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II: Da Ren (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofdr2020" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II: Da Ren 2020 (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofdwp" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II: Wu Shuang Jia Qiang (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofdz" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II: Dou Zhi (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofsm" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II: San Mei (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofx" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II: Xia Hou En Fu Chou (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofzl" board="CPS-1(QSound)">
+    <parent>wof</parent>
+    <direction></direction>
+    <description>Tenchi wo Kurau II: Zhan Lang (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wofsj" board="CPS-1">
+    <parent>wofhfh</parent>
+    <direction></direction>
+    <description>Sangokushi II: Sheng Jian Sanguo (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wof3sj" board="CPS-1">
+    <parent>wofhfh</parent>
+    <direction></direction>
+    <description>Sangokushi II: San Sheng Jian (Chinese bootleg)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+  <game name="wof3jsa" board="CPS-1">
+    <parent>wofhfh</parent>
+    <direction></direction>
+    <description>Sangokushi II: San Jian Sheng (Chinese bootleg set 2, 921005 Asia)</description>
+    <year>1992</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>  
+  <game name="sgyxz" board="CPS-1">
+    <parent>wofhfh</parent>
+    <direction></direction>
+    <description>Warriors of Fate ('sgyxz' bootleg)</description>
+    <year>1999</year>
+    <manufacturer>bootleg</manufacturer>
+  </game>
+</mame>
